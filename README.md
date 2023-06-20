@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alifiya saifee
+- 👀 I’m interested in solving complex questions
+- 🌱 I am currently pursuing a Bachelor's degree in Computer Science. I have chosen this field because it offers a wide range of opportunities and has significant demand in various industries. As I continue my studies, I am building a strong foundation in programming, algorithms, data structures, databases, computer networks, software engineering, and other key areas of computer science.
